@@ -1,0 +1,18 @@
+                           
+                           
+                           
+        		                   BackDoor By p0isonTech
+				[*] Twitter: https://twitter.com/p0isontech
+				[*] TikTok:  https://www.tiktok.com/@p0isontech?_t=8hcPxzlZEow&_r=1
+				
+				
+[*] Oque é BackDoor ?
+Um backdoor é um tipo de código malicioso que permite que um invasor obtenha acesso a um sistema sem o conhecimento ou consentimento do usuário. Por outro lado, um trojan é projetado para se disfarçar de software legítimo e, em seguida, realizar atividades maliciosas no sistema.
+
+[*] Oque são as Shells1 Até Shells3 ?
+Dentro deste arquivos temos lista de sites que podem possivelmente ter vulnerabilidades para injetar nosso BackDoor.
+Caso você queira injetar em um site especifico que achou basta criar um arquivo .txt e colocar o site desejado.
+
+[*] Aviso
+ Caso o Script esteja com problema tenter dar permissão de admin para ele , com ( chmod +x p0isonDoor.py )
+ 
